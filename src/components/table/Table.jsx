@@ -66,9 +66,6 @@ const Table = ({ item }) => {
           </tbody>
         </table>
       </div>
-      <div>
-        <input type="" />
-      </div>
     </div>
   );
 };

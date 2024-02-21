@@ -16,7 +16,7 @@ const Sidbar = ({ children }) => {
   const toggle = () => setIsOpen(!isOpen);
   const menuItem = [
     {
-      path: "/",
+      path: "/intern-assignment",
       name: "Dashboard",
       icon: <HomeOutlinedIcon />,
     },
